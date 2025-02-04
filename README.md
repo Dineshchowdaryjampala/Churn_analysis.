@@ -81,7 +81,7 @@ To run this project locally, follow these steps:
 ```
 
 ## 📉 Data Analysis & Visualization
-![Churn Distribution]()
+![Churn Distribution](https://github.com/Dineshchowdaryjampala/Churn_analysis./blob/ac74da0bf8a97f936cae3a869e0f5ed928ac40f7/Images/Dashboard%20of%20Summary%20Data.png)
 
 - Analyzed churn distribution across various demographics.
 - Visualized trends in customer behavior leading to churn.

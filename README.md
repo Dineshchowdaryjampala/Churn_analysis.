@@ -113,7 +113,7 @@ The project implements multiple machine learning models to predict churn:
 2. **Post-Modeling Analysis**: After performing the **Random Forest Algorithm**, the obtained dataset was further visualized using **Power BI**.
 3. **Final Dashboard**: Created **interactive reports** to track churn patterns and model predictions.
 
-![Power BI Dashboard](your-image-link-here)
+![Power BI Dashboard](https://github.com/Dineshchowdaryjampala/Churn_analysis./blob/ca80762b7259ffee230fd6744fb84c1d3534ce7f/Images/Summary%20of%20Predicted%20Data.png)
 
 ## 📌 Future Improvements
 - **Hyperparameter tuning** for better model performance.

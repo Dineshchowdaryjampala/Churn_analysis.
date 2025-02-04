@@ -99,9 +99,6 @@ The project implements multiple machine learning models to predict churn:
 |--------|----------|-----------|--------|----------|
 | Logistic Regression | 85% | 82% | 78% | 80% |
 | Random Forest | 84% | 78% | 80% | 84% |
-| XGBoost | **90%** | **88%** | **87%** | **88%** |
-
-✅ **XGBoost performed the best in predicting customer churn!**
 
 ## 📜 Key Findings
 - Customers with **higher monthly charges** are more likely to churn.

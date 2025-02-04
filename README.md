@@ -77,7 +77,7 @@ To run this project locally, follow these steps:
 
 3️⃣ **Run Jupyter Notebook**:
 ```sh
- jupyter notebook
+ jupyter notebook Customer_Churn_analysis.ipynb
 ```
 
 ## 📉 Data Analysis & Visualization
